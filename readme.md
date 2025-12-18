@@ -31,7 +31,6 @@ List of vendor prefixes.
 *   [Compatibility](#compatibility)
 *   [Security](#security)
 *   [Contribute](#contribute)
-*   [License](#license)
 
 ## What is this?
 
