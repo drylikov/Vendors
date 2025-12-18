@@ -122,6 +122,7 @@ Yields:
 
 
 
+
 ## API
 
 This package exports the identifier `vendors`.
