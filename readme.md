@@ -3,7 +3,7 @@
 
 
 
-# vendors
+# Vendors.
 
 List of vendor prefixes.
 
